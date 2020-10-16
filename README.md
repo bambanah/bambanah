@@ -7,8 +7,7 @@
 
 Welcome to my Github profile! I recently graduated from QUT with a Computer Science major and minors in Intelligent Systems and User Experience.
 
-* I'm currently learning all there is to know about React
-* Participating in the 100 Days of Code challenge, focusing on React, Angular, and Typescript
+I'm currently looking for employment as a junior full-stack developer!
 
 ## My Arsenal
 
@@ -36,10 +35,10 @@ Welcome to my Github profile! I recently graduated from QUT with a Computer Scie
 ## Projects I'm Currently Working On
 
 ### [lachie.xyz](https://lachie.xyz)
-My personal website. A lot of room for growth here!
+My personal website. Currently getting it up to date!
 
 <br/>
 <br/>
 <br/>
 
-*BTW, I use Arch*
+*I use Arch BTW*
