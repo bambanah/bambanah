@@ -5,9 +5,7 @@
 [![HackerRank Badge](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/Bambanah)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:lachlanu@gmail.com)
 
-Welcome to my Github profile! I recently graduated from QUT with a Computer Science major and minors in Intelligent Systems and User Experience.
-
-I'm currently looking for employment as a junior full-stack developer!
+Welcome to my Github profile! I'm currently employed as a Software Engineer at WorkingMouse.
 
 ## My Arsenal
 
@@ -39,9 +37,3 @@ I'm currently looking for employment as a junior full-stack developer!
 
 ### [lachie.xyz](https://lachie.xyz)
 My personal website. Currently getting it up to date!
-
-<br/>
-<br/>
-<br/>
-
-*I use Arch BTW*
