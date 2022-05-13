@@ -2,10 +2,9 @@
 
 [![Website Badge](https://img.shields.io/badge/-lachie.xyz-000?style=flat-square&logo=Firefox&logoColor=89EACD)](https://lachie.xyz)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lachlan-underhill-7476681a0)](https://www.linkedin.com/in/lachlan-underhill-7476681a0)
-[![HackerRank Badge](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/Bambanah)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:lachlanu@gmail.com)
 
-Welcome to my Github profile! I'm currently employed as a Software Engineer at WorkingMouse.
+Welcome to my Github profile! I'm currently employed as a Software Development Engineer at Amazon.
 
 ## My Arsenal
 
