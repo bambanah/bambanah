@@ -1,4 +1,4 @@
-# Hi, I'm Lachie! 👋
+# Hi there, I'm Lachie! 👋
 
 [![Website Badge](https://img.shields.io/badge/-lachie.xyz-444?style=for-the-badge&logo=Firefox&logoColor=89EACD)](https://lachie.xyz)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lachlan-underhill-7476681a0)](https://www.linkedin.com/in/lachlan-underhill-7476681a0)
@@ -32,6 +32,8 @@ Postgres
 Jest
 Firebase
 Docker
+Styled Components
+.NET
 
 ### ❖ What I Want to Learn
 
