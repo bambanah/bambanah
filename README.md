@@ -47,7 +47,7 @@ I'm currently employed as a Software Development Engineer at Amazon.
 
 ### ❖ GitHub Statistics
 
-<a href="https://github.com/bambanah/bambanah">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bambanah&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=material-palenight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bambanah&layout=compact&hide_border=true&langs_count=8&theme=material-palenight&count_private=true"/>
+<a href="https://github.com/lachie-underhill/lachie-underhill">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lachie-underhill&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=material-palenight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lachie-underhill&layout=compact&hide_border=true&langs_count=8&theme=material-palenight&count_private=true"/>
 </a>
