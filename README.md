@@ -5,9 +5,9 @@
 
 Welcome to my Github profile!
 
-I'm currently employed as a Software Development Engineer at Amazon.
+I'm currently employed as a Full Stack Engineer at Max Kelsen.
 
-### ❖ What I Use at Amazon
+### ❖ What I Used at Amazon
 
 ![Java Badge](https://img.shields.io/badge/Java-497292?logo=java&style=for-the-badge&logoColor=white)
 ![Kotlin Badge](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&style=for-the-badge&logoColor=white)
