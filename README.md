@@ -7,21 +7,34 @@ Welcome to my Github profile!
 
 I'm currently employed as a Full Stack Engineer at Max Kelsen.
 
+I've also previously worked for Amazon Fresh, TechnologyOne, and WorkingMouse.
+
+### ❖ What I Use at Max Kelsen
+
+![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&style=for-the-badge&logoColor=white)
+![Next.js Badge](https://img.shields.io/badge/next\.js-000000?logo=nextdotjs&style=for-the-badge&logoColor=white)
+![FastAPI Badge](https://img.shields.io/badge/FastAPI-009688?logo=FastAPI&style=for-the-badge&logoColor=white)
+![Terraform Badge](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&style=for-the-badge&logoColor=white)
+![VSCode Badge](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&style=for-the-badge&logoColor=white)
+![PyCharm Badge](https://img.shields.io/badge/PyCharm-black?logo=pycharm&style=for-the-badge&logoColor=white)
+![GCP Badge](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![MacOS Badge](https://img.shields.io/badge/MacOS-white?logo=apple&style=for-the-badge&logoColor=grey)
+
 ### ❖ What I Used at Amazon
 
 ![Java Badge](https://img.shields.io/badge/Java-497292?logo=java&style=for-the-badge&logoColor=white)
 ![Kotlin Badge](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&style=for-the-badge&logoColor=white)
 ![Typescript Badge](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Intellij Badge](https://img.shields.io/badge/IntelliJ-black?logo=intellij-idea&style=for-the-badge&logoColor=white)
-![Neovim Badge](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-![MacOS Badge](https://img.shields.io/badge/MacOS-white?logo=apple&style=for-the-badge&logoColor=grey)
 ![AWS Badge](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Bash Badge](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&style=for-the-badge&logoColor=white)
+![MacOS Badge](https://img.shields.io/badge/MacOS-white?logo=apple&style=for-the-badge&logoColor=grey)
 
 ### ❖ What I Use at Home
 
 ![Next.js Badge](https://img.shields.io/badge/Next.js-black?logo=next.js&style=for-the-badge&logoColor=white)
+![Astro Badge](https://img.shields.io/badge/Astro-FF5D01?logo=astro&style=for-the-badge&logoColor=white)
+![Solid Badge](https://img.shields.io/badge/Solid-2C4F7C?logo=solid&style=for-the-badge&logoColor=white)
 ![React Badge](https://img.shields.io/badge/React-45b8d8?logo=react&style=for-the-badge&logoColor=white)
 ![Typescript Badge](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Sass Badge](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -36,6 +49,7 @@ I'm currently employed as a Full Stack Engineer at Max Kelsen.
 ![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Styled Components Badge](https://img.shields.io/badge/-Styled%20Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![.NET Badge](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Neovim Badge](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 
 ### ❖ What I Want to Learn
 
@@ -48,6 +62,6 @@ I'm currently employed as a Full Stack Engineer at Max Kelsen.
 ### ❖ GitHub Statistics
 
 <a href="https://github.com/bambanah/bambanah">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bambanah&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=material-palenight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bambanah&layout=compact&hide_border=true&langs_count=8&theme=material-palenight&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bambanah&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=rose_pine" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bambanah&layout=compact&hide_border=true&langs_count=8&count_private=true&theme=rose_pine"/>
 </a>
