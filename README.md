@@ -5,11 +5,11 @@
 
 Welcome to my Github profile!
 
-I'm currently employed as a Full Stack Engineer at Max Kelsen.
+I'm currently employed as a Full Stack Engineer at Propel Health.
 
 I've also previously worked for Amazon Fresh, TechnologyOne, and WorkingMouse.
 
-### ❖ What I Use at Max Kelsen
+### ❖ What I Use at Propel
 
 ![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&style=for-the-badge&logoColor=white)
