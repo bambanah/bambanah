@@ -61,7 +61,7 @@ I've also previously worked for Amazon Fresh, TechnologyOne, and WorkingMouse.
 
 ### ❖ GitHub Statistics
 
-<a href="https://github.com/bambanah/bambanah">
+<div>
   <img height="180em" src="https://bambanah-github-readme-stats.vercel.app/api?username=bambanah&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark" />
   <img height="180em" src="https://bambanah-github-readme-stats.vercel.app/api/top-langs/?username=bambanah&layout=compact&hide_border=true&langs_count=8&count_private=true&theme=github_dark"/>
-</a>
+</div>
